@@ -65,10 +65,6 @@
     margin-top: 0px;
 }
 
-div[class*="_title_"] {
-    display: none !important;
-}
-
 div[class*="_bar_"] button[class*="_button_"] {
     background: var(--bg-transparent);
 }
